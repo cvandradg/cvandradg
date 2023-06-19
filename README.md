@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a self employed dev<br>🤝 I’m looking for help with best practices in Angular/Rxjs/Material and angular related stuff<br>🌱 I’m currently learning Angular, TS and Rxjs more deeply. <br>💬 Ask me about anything<br>⚡ Fun fact I had many hobbies
+🔭 I’m currently working as a self employed dev<br>🤝 I’m looking for help with best practices in Angular/Rxjs/NgRx/Material/Nx/Firebase and angular related stuff<br>🌱 I’m currently learning Angular, TS and Rxjs more deeply. <br>💬 Ask me about anything<br>⚡ Fun fact I had many hobbies
 
 
 # 💻 Tech Stack:
