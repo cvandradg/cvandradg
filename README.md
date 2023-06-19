@@ -2,7 +2,7 @@
 🌎 Located in Costa Rica<br>
 🔭 Working to become as a self employed dev<br>
 💬 Ask me about anything<br>
-⚡ Fun fact I had many hobbies
+⚡ Fun fact I had many hobbies<br>
 🌱 Learning and implementing the best practices I can find in:<br>
 
 
