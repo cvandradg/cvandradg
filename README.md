@@ -25,6 +25,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cvandradg&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
