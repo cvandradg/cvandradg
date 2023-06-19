@@ -1,9 +1,9 @@
 # 💫 About Me:
 🌎 Located in Costa Rica<br>
 🔭 Working to become as a self employed dev<br>
-🌱 Learning and implementing the best practices I can find in Angular/Rxjs/NgRx/Material/Nx/Firebase and angular related subjects<br>
 💬 Ask me about anything<br>
 ⚡ Fun fact I had many hobbies
+🌱 Learning and implementing the best practices I can find in:<br>
 
 
 
