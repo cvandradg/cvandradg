@@ -6,7 +6,7 @@
 ⚡ Fun fact I had many hobbies
 
 
-# 💻 Tech Stack:
+
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Nx](https://img.shields.io/badge/nx-%23143055.svg?style=for-the-badge&logo=nx&logoColor=white) 
