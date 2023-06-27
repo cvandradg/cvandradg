@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🌎 Located in Costa Rica<br>
 🔭 Working to become as a self employed dev<br>
 🌱 Learning and implementing the best practices I can find in:<br>
